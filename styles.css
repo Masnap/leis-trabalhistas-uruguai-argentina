@@ -43,6 +43,12 @@ hr{
     margin: 30px 0;
 }
 
+#linha{
+    border: none;
+    border-top: 1px solid #E2DED6;
+    margin: 45px 0;
+}
+
 #autores{
     text-align: center;
     color:#6B6B6B;
